@@ -140,13 +140,14 @@ Features:
 
 ### Adaptive Skill Recommendations
 
-![Recommendations](docs/recommendations.png)
+<img width="852" height="651" alt="recomendations" src="https://github.com/user-attachments/assets/da3878d0-b8c5-425f-8a76-be4d98c8ac4a" />
 
 ---
 
 ### Skill Dependency Graph
 
-![Knowledge Graph](docs/knowledge_graph.png)
+<img width="805" height="712" alt="knowledge_graph" src="https://github.com/user-attachments/assets/7ae1547a-4e06-4a16-91b1-faa7d60bd07c" />
+
 
 ---
 
