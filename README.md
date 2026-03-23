@@ -133,21 +133,19 @@ Features:
 
 ### Student Knowledge Visualization
 
-<img width="863" height="748" alt="dashboard" src="https://github.com/user-attachments/assets/b88327ca-4820-4d47-a394-d16fb612c17a" />
-
+![Student Knowledge](docs/dashboard.png)
 
 ---
 
 ### Adaptive Skill Recommendations
 
-<img width="852" height="651" alt="recomendations" src="https://github.com/user-attachments/assets/da3878d0-b8c5-425f-8a76-be4d98c8ac4a" />
+![Recommendations](docs/recommendations.png)
 
 ---
 
 ### Skill Dependency Graph
 
-<img width="805" height="712" alt="knowledge_graph" src="https://github.com/user-attachments/assets/7ae1547a-4e06-4a16-91b1-faa7d60bd07c" />
-
+![Knowledge Graph](docs/knowledge_graph.png)
 
 ---
 
@@ -234,15 +232,20 @@ README.md
 
 ---
 
-# Dataset installation 
+## Dataset
 
-The dataset used in this project is the ASSISTments dataset.
-Due to size limitations, the datset is not included in this repository.
-You can download the dataset from: 
-https://sites.google.com/site/assistmentsdata/
+This project uses the **ASSISTments 2009-2010 dataset**.
 
-After downloading, place the dataset file inside the data/ directory.
+Due to GitHub file size limits, the dataset is not included in this repository.
 
+Download the dataset from:
+
+https://sites.google.com/view/assistmentsdata/home
+
+Then place the file inside the `data/` folder:
+
+data/
+ └ assistments.csv
 
 ---
 
