@@ -133,19 +133,19 @@ Features:
 
 ### Student Knowledge Visualization
 
-![Student Knowledge](docs/dashboard.png)
+<img width="863" height="748" alt="dashboard" src="https://github.com/user-attachments/assets/138c53fb-e360-409b-b4f0-a73ccc4d0b39" />
 
 ---
 
 ### Adaptive Skill Recommendations
 
-![Recommendations](docs/recommendations.png)
+<img width="852" height="651" alt="recomendations" src="https://github.com/user-attachments/assets/4a1213dc-1e28-4cea-8181-77eb56e38e08" />
 
 ---
 
 ### Skill Dependency Graph
 
-![Knowledge Graph](docs/knowledge_graph.png)
+<img width="805" height="712" alt="knowledge_graph" src="https://github.com/user-attachments/assets/1360bd8d-86da-46cf-9083-475b649badac" />
 
 ---
 
