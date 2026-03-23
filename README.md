@@ -133,7 +133,8 @@ Features:
 
 ### Student Knowledge Visualization
 
-![Student Knowledge](docs/dashboard.png)
+<img width="863" height="748" alt="dashboard" src="https://github.com/user-attachments/assets/b88327ca-4820-4d47-a394-d16fb612c17a" />
+
 
 ---
 
