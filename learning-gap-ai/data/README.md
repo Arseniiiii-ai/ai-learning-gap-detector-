@@ -10,10 +10,10 @@ Download the dataset from:
 
 Then place the file inside the `data/` folder:
 
-
+```
 data/
  └ assistments.csv
-
+```
 
 Place the dataset here.
 
