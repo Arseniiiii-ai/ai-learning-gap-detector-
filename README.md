@@ -232,6 +232,18 @@ README.md
 
 ---
 
+```bash
+The dataset used in this project is the ASSISTments dataset.
+Due to size limitations, the datset is not included in this repository.
+You can download the dataset from: 
+https://sites.google.com/site/assistmentsdata/
+
+After downloading, place the dataset file inside the data/ directory.
+```
+
+---
+
+
 # Technologies Used
 
 Python
