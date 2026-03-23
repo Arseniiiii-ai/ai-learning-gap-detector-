@@ -1,8 +1,0 @@
-pandas
-numpy
-torch
-streamlit
-plotly
-networkx
-matplotlib
-scikit-learn
